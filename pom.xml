@@ -11,6 +11,7 @@
     <modules>
         <module>MaishaAhmed</module>
         <module>Generic</module>
+        <module>MomenunAkhi</module>
     </modules>
 
     <dependencyManagement>
